@@ -1,0 +1,106 @@
+@media (min-width: 300px) {
+  .text-center.titulo {
+    color: rgb(242,245,248);
+    font-size: 36px;
+    font-weight: bold;
+    font-family: Roboto, sans-serif;
+  }
+}
+
+@media (min-width: 576px) {
+  .text-center.titulo {
+    color: rgb(242,245,248);
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Roboto, sans-serif;
+  }
+}
+
+@media (min-width: 768px) {
+  .text-center.titulo {
+    color: rgb(242,245,248);
+    font-size: 46px;
+    font-weight: bold;
+    font-family: Roboto, sans-serif;
+  }
+}
+
+@media (min-width: 992px) {
+  .text-center.titulo {
+    color: rgb(242,245,248);
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Roboto, sans-serif;
+  }
+}
+
+@media (min-width: 1200px) {
+  .text-center.titulo {
+    color: rgb(242,245,248);
+    font-size: 56px;
+    font-weight: bold;
+    font-family: Roboto, sans-serif;
+  }
+}
+
+@media (min-width: 300px) {
+  .text-center.subtitulo {
+    color: rgb(242,245,248);
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    font-weight: normal;
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 576px) {
+  .text-center.subtitulo {
+    color: rgb(242,245,248);
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    font-weight: normal;
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .text-center.subtitulo {
+    color: rgb(242,245,248);
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    font-weight: normal;
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 992px) {
+  .text-center.subtitulo {
+    color: rgb(242,245,248);
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    font-weight: normal;
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .text-center.subtitulo {
+    color: rgb(242,245,248);
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    font-weight: normal;
+    font-size: 28px;
+  }
+}
+
+.btn.btn-block.border.rounded.boton {
+  background-color: transparent;
+  color: rgb(255,206,0);
+}
+
+.btn.btn-block.border.rounded.boton:hover {
+  color: black;
+  text-decoration: none;
+  background-color: rgb(255,206,0);
+}
+
